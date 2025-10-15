@@ -1,0 +1,3 @@
+C:/Users/jhona/OneDrive/Escritorio/4100901-room_control-bare_metal/Room_control_bMetal/CMakeFiles/Room_control_bMetal.dir
+C:/Users/jhona/OneDrive/Escritorio/4100901-room_control-bare_metal/Room_control_bMetal/CMakeFiles/edit_cache.dir
+C:/Users/jhona/OneDrive/Escritorio/4100901-room_control-bare_metal/Room_control_bMetal/CMakeFiles/rebuild_cache.dir
